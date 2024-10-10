@@ -13,12 +13,3 @@
   - Seaborn
 - **Power BI**
 
-### Projects:
-- **Project 1:**
-  *Brief description of the project*
-
-- **Project 2:**
-  *Brief description of the project*
-
-- **Project 3:**
-  *Brief description of the project*
